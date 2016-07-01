@@ -1,0 +1,23 @@
+{
+  "name": "es6-features",
+  "version": "1.0.0",
+  "description": "ECMAScript 6 Features",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swapnil-webonise/es6-features.git"
+  },
+  "keywords": [
+    "es6",
+    "ECMAScript 6"
+  ],
+  "author": "Swapnil Patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swapnil-webonise/es6-features/issues"
+  },
+  "homepage": "https://github.com/swapnil-webonise/es6-features#readme"
+}
